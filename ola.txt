@@ -1,8 +1,5 @@
 ola ola
-<<<<<<< HEAD
 alteracoes
 alteracoes 2
 alteracoes 3
 alteracoes 4
-=======
->>>>>>> parent of 76f3ec5... my first commit in branch1
